@@ -1,5 +1,7 @@
 using System;
-
+/*
+The exceeding requirements description is at the bottom
+*/
 class Program
 {
     static void Main(string[] args)
@@ -74,3 +76,13 @@ class Program
         }
     }
 }
+
+
+/*
+-----------Exceeding Requirements------------
+I exceeded requirements by adding a weight 
+tracker where you can write down your weight 
+everytime you enter something in your journal 
+so that you can keep track easier
+---------------------------------------------
+*/
