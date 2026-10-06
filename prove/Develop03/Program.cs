@@ -1,6 +1,6 @@
 using System;
 
-// Esceeding reqirements:
+// Exceeding reqirements:
 // The program only selects words that have not already been hidden
 // which makes sure that each time the user presses enter, new words
 // are hidden instead of possibly selecting words that are already hidden.
